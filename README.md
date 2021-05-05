@@ -5,7 +5,7 @@ Hello, I am **Eduardo**.
 2. 68 kg
 3. 1,66 m
 
-´´´ python
+´´´python
 nome = 'Eduardo'
 for letra in nome:
     print(letra)
